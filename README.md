@@ -1,0 +1,1 @@
+# medica_type_script
